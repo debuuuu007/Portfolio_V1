@@ -1,0 +1,45 @@
+.Intro {
+    display: flex;
+    margin: 0 12% 0 12%;
+    gap: 5rem;
+}
+
+.Introcontent {
+    padding-top: 10rem;
+}
+
+
+
+
+
+.hello {
+    font-weight: 500;
+    font-size: 2rem;
+    font-family: Comic Neue;
+}
+
+h2 {
+    font-family: Comic Neue;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.para {
+    font-family: Comic Neue;
+    font-size: 1.25rem;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 10px 20px;
+    background-color: rgb(245, 97, 5);
+    color: black;
+    font-size: 1.25rem;
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: Comic Neue;
+}
+

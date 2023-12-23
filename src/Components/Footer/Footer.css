@@ -1,0 +1,25 @@
+.footerdiv{
+    height: 8rem;
+    display: flex;
+    flex-direction: column;
+    justify-content:end;
+    align-items: center;
+}
+
+.socialicons{
+    width: 10rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.socialicons a{
+    color: #90CAF9;
+    font-size: 1.75rem;
+}
+
+h3{
+    font-size:2rem;
+    font-weight: 500;
+}
+
+

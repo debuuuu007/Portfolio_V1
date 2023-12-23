@@ -1,0 +1,32 @@
+
+
+
+.mainbox {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-bottom: 2rem;
+}
+
+.box img {
+    height: 8rem;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10rem;
+    width: 20rem;
+    background-color: black;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.content {
+    margin: 2rem 12% 0 12%;
+}

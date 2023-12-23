@@ -1,0 +1,48 @@
+.blogbox {
+    display: flex;
+    margin-top: 2rem;
+    background-color: black;
+}
+
+.blogimg {
+    height: 12rem;
+    width: 20rem;
+
+}
+
+.blogpara {
+    font-size: 2rem;
+}
+
+.blogdesc {
+    font-size: 1.25rem;
+
+}
+
+.blogcontent {
+    padding: 1rem 2rem 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+
+.blogbtn {
+    background-color: rgb(245, 97, 5);
+    border-radius: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+
+}
+
+.blogbtn i {
+    margin-right: 5px;
+}
+
+.bloganch {
+    width: 7.2rem;
+
+}

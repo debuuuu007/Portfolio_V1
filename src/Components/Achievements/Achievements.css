@@ -1,0 +1,16 @@
+.achievelist{
+    margin-top: 2rem;
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: black;
+}
+
+.achievelist ul{
+    padding-left: 3rem;
+}
+.achievelist ul li{
+    font-size: 1.25rem;
+    margin: 1rem 0;
+}
