@@ -8,7 +8,7 @@ function Footer() {
         <h3>Contact Me</h3>
         <br />
         <div className='socialicons'>
-            <a href=""><i className="fa-brands fa-instagram"></i></a>
+            <a href="https://www.instagram.com/debuu.032/"><i className="fa-brands fa-instagram"></i></a>
             <a href="https://www.facebook.com/debraj.mondal.14289/"><i className="fa-brands fa-facebook"></i></a>
             <a href="https://www.linkedin.com/in/debrajmondal007/"><i className="fa-brands fa-linkedin"></i></a>
         </div>
