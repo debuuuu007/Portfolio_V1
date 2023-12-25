@@ -4,7 +4,7 @@ import './Footer.css'
 
 function Footer() {
   return (
-    <div style={{margin:'2rem 12% 2rem 12%'}} className='footerdiv'>
+    <div style={{margin:'2rem 12% 2rem 12%'}} className='footerdiv' id='footer'>
         <h3>Contact Me</h3>
         <br />
         <div className='socialicons'>

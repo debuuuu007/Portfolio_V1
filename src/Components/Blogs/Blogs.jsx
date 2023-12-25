@@ -4,7 +4,7 @@ import './Blogs.css'
 import git from '../../assets/git.png'
 function Blogs() {
   return (
-    <div style={{ margin: "0 12% 0 12%" }}>
+    <div style={{ margin: "0 12% 0 12%" }} id='blogs'>
       <h2>Blogs</h2>
       <div className='blogbox'>
         <img src={git} alt="photo" className='blogimg' />

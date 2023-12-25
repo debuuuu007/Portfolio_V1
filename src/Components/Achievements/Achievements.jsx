@@ -2,7 +2,7 @@ import React from 'react'
 import './Achievements.css'
 function Achievements() {
   return (
-    <div style={{ margin: "2rem 12% 0 12%" }}>
+    <div style={{ margin: "2rem 12% 0 12%" }} id='achieved'>
         <h2>Key Achievements</h2>
         <div className='achievelist'>
             <ul>

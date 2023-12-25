@@ -26,10 +26,8 @@ h2 {
     line-height: normal;
 }
 
-.para {
-    font-family: Comic Neue;
-    font-size: 1.25rem;
-}
+
+
 
 .btn {
     display: inline-block;
@@ -41,5 +39,6 @@ h2 {
     border-radius: 10px;
     text-decoration: none;
     font-family: Comic Neue;
+    cursor: pointer;
 }
 

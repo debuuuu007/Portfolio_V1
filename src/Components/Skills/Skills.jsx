@@ -15,7 +15,7 @@ import rct from '../../assets/RREACT.png'
 
 function Skills() {
   return (
-    <div className='content'>
+    <div className='content' id='skills'>
       <h2>What I do</h2>
       <br />
       <br />
