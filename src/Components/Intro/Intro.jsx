@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Intro.css"
 import { Link } from "react-scroll"
-import bg from "../../assets/me.jpeg"
+import bg from "../../assets/me.webp"
 
 function Intro() {
   return (
