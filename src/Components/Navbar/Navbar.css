@@ -17,9 +17,15 @@
     margin: 2rem;
     cursor: pointer;
     font-size: 1.25rem;
+    color: black;
 }
 
 .MenuItm:hover{
     text-decoration: underline;
     color: blue;
+}
+
+.Menu{
+    background-color: #90CAF9;
+    border-radius: 10rem;
 }

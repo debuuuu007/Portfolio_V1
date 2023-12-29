@@ -2,6 +2,9 @@ import React from 'react'
 import Gitt from '../../assets/gitttt.avif'
 import './Blogs.css'
 import git from '../../assets/git.png'
+import vrt from '../../assets/vitereact.png'
+
+
 function Blogs() {
   return (
     <div style={{ margin: "0 12% 0 12%" }} id='blogs'>
@@ -13,7 +16,6 @@ function Blogs() {
           <p className='blogdesc'>Learning development or making a project is easy but you need to tract every change this is where Git comes in play.</p>
           <a href="https://debraj007.hashnode.dev/git-a-beginners-guide-to-version-control-part1" className='bloganch'><button className='blogbtn'> <i className="fa-solid fa-link"></i>Blog Link</button></a>
         </div>
-
       </div>
 
       <div className='blogbox'>
@@ -23,7 +25,15 @@ function Blogs() {
           <p className='blogdesc'>As we make projects one after another, now we can track everything in projects now its time to store them in GitHub.</p>
           <a href="https://debraj007.hashnode.dev/git-github-essentials-a-beginners-guide-to-commands-for-smooth-collaboration" className='bloganch'><button className='blogbtn'> <i className="fa-solid fa-link"></i>Blog Link</button></a>
         </div>
+      </div>
 
+      <div className='blogbox'>
+        <img src={vrt} alt="photo" className='blogimg' />
+        <div className='blogcontent'>
+          <p className='blogpara'>Hosting a React+Vite Project Using GitHub pages</p>
+          <p className='blogdesc'>This blog aims how to host a React+Vite project using GitHub pages seamlessly.</p>
+          <a href="https://debraj007.hashnode.dev/hosting-a-vitereact-website-using-github-pages" className='bloganch'><button className='blogbtn'> <i className="fa-solid fa-link"></i>Blog Link</button></a>
+        </div>
       </div>
     </div>
   )
